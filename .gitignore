@@ -1,0 +1,9 @@
+/Debug/
+
+\.settings/
+
+SCpj-STM32F746-Led-Test\.elf\.launch
+
+SCpj-STM32F746-Led-Test\.ioc
+
+STM32F746ZG_FLASH\.ld
