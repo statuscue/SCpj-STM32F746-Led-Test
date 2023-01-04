@@ -11,3 +11,5 @@ STM32F746ZG_FLASH\.ld
 /.idea/modules.xml
 /.idea/SCpj-STM32F746-Led-Test.iml
 /.idea/vcs.xml
+
+.idea/
