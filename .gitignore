@@ -7,3 +7,9 @@ SCpj-STM32F746-Led-Test\.elf\.launch
 SCpj-STM32F746-Led-Test\.ioc
 
 STM32F746ZG_FLASH\.ld
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/SCpj-STM32F746-Led-Test.iml
+/.idea/vcs.xml
+
+.idea/
